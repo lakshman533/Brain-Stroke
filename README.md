@@ -2,15 +2,17 @@
 A stroke occurs when part of the brain loses its blood supply and stops working. This causes the part of the body that the injured brain controls to stop working. A stroke also is called a cerebrovascular accident, CVA, or "brain attack."
 ![   ](https://user-images.githubusercontent.com/25797072/116720548-f6f2f300-a9f9-11eb-9a2a-8dc9fdd8c52a.gif)
 
-#image source:Internet
+*image source:Internet*
+
 # Table of Contents
-1. [Introduction]()
-2. [Objective]()
-3. [Installations]()
-4. [Project Motivation]()
-5. [File Description]()
-6. [Results]()
-7. [Licensing, Authors, and Acknowledgements]()
+1. [Introduction](https://github.com/lakshman533/Brain-Stroke/blob/main/README.md#introduction)
+2. [Objective](https://github.com/lakshman533/Brain-Stroke/blob/main/README.md#objective)
+3. [Installations](https://github.com/lakshman533/Brain-Stroke/blob/main/README.md#installations)
+4. [Project Motivation](https://github.com/lakshman533/Brain-Stroke/blob/main/README.md#project-motivation)
+5. [File Description](https://github.com/lakshman533/Brain-Stroke/blob/main/README.md#file-description)
+6. [Results](https://github.com/lakshman533/Brain-Stroke/blob/main/README.md#results)
+7. [Licensing, Authors, and Acknowledgements](https://github.com/lakshman533/Brain-Stroke/blob/main/README.md#licensing-authors-acknowledgements)
+
 # Introduction
 So, I have analyzed a dataset which contains data related to brain strokes.
 In this notebook we are using a dataset that is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
