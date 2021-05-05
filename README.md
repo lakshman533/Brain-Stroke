@@ -72,6 +72,8 @@ The main findings of the code can be found at the post available [here](https://
 # Licensing, Authors, Acknowledgements
 Must give credit to fedesoriano for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset "kaggle")
 
+Special thanks to @udacity for helping in creating a good readme and @aditimulye for providing pywaffle visualization in the notebook.
+
 
 
     
