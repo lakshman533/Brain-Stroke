@@ -67,7 +67,7 @@ In this repository you can find a .CSV file which is the dataset used in our ana
 # Results
 All our assumptions and questions both were answered and visualized in the notebook.
 
-The main findings of the code can be found at the post available here
+The main findings of the code can be found at the post available [here](https://lakshmanraj23.medium.com/what-causes-a-stroke-and-why-does-it-happen-infographic-781f9782b2b6)
 
 # Licensing, Authors, Acknowledgements
 Must give credit to fedesoriano for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset "kaggle")
